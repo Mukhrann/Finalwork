@@ -75,15 +75,15 @@
     margin-top: 10px;
     padding: 18px 18px;
     border-radius: 10px;
-    border: 5px;
-    background-color: lightsteelblue;
+    border-width: 1px;
+    
     -webkit-transition: all 0.3s linear;
     -o-transition: all 0.3s linear;
     transition: all 0.3s linear;
 }
 
 .button:hover { 
-    background-color: lightslategray;
+    background-color: lightsteelblue;
 }
 .margintext { 
     margin-bottom: 30px;
@@ -195,6 +195,7 @@
     -o-transition: transform .2s;
     transition: transform .2s;
     transition: transform .2s, -webkit-transform .2s;
+    
 }
 .textblock1 {
     font-size: 16px;
@@ -239,6 +240,8 @@
     border-radius: 24px;
     -webkit-box-shadow: 5px 5px 18px gray;
             box-shadow: 5px 5px 18px gray;
+    
+    
 }
 
 .london { 
@@ -250,6 +253,10 @@
     border-radius: 24px;
     -webkit-box-shadow: 5px 5px 18px gray;
             box-shadow: 5px 5px 18px gray;
+    
+    
+
+    
 }
 .europe {
     background-image: url(/img/europe.png);
@@ -260,6 +267,9 @@
     border-radius: 24px;
     -webkit-box-shadow: 5px 5px 18px gray;
             box-shadow: 5px 5px 18px gray;
+    
+    
+    
 }
 .right-block-image {
     max-width: 765px;
@@ -272,16 +282,12 @@
     bottom: 0;
     background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
     border-radius: 0 0 24px 24px;
-    position: absolute;
-    
-}
-.Destinations { 
-    position: relative;
+    margin-top: 270px;
     
 }
 
 .preismargin {
-    position: absolute;
+    
     justify-content: space-around;
     padding-top: 25px;
     
@@ -389,6 +395,10 @@
     width: 139px;
     height: 36px;
     margin-bottom: 30px;
+}
+.trip2 { 
+    padding-left: 21px;
+    margin-top: 21px;
 }
 .datadiv { 
     margin-top: 21px;   
