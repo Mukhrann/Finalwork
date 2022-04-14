@@ -289,7 +289,7 @@
 .Italy { 
     display: inline-block;
     margin-left: 30px;
-    font-size: 16px;
+    font-size: 20px;
 }
 .cost {
     display: inline-block;
@@ -297,22 +297,21 @@
     font-size: 20px;
     color: goldenrod;
 }
+.divp {
+    display: inline-block;
+    padding-left: 10px;
+    font-size: 20px;
+}
 
 .trip {
     width: 20px; 
     height: 20px;
-    position: absolute;
-    margin-top: 50px;
-    margin-right: 200px
+    margin-left: 30px;
+    margin-top: 35px;
+    display: inline-block;
 
 }
-.tripimg { 
-    display: inline-block;
-}
-.tripdays {
-    display: inline-block;
-    padding-left: 5px;
-}
+
 /* booking Section  */
 .bookingblock { 
     display: -webkit-box; 
