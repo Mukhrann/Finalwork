@@ -270,7 +270,7 @@
     width: 315px;
     height: 130px;
     bottom: 0;
-    background-color: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
     border-radius: 0 0 24px 24px;
     position: absolute;
     
@@ -278,6 +278,40 @@
 .Destinations { 
     position: relative;
     
+}
+
+.preismargin {
+    position: absolute;
+    justify-content: space-around;
+    padding-top: 25px;
+    
+}
+.Italy { 
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.cost {
+    display: inline-block;
+    margin-left: 110px;
+    font-size: 20px;
+    color: goldenrod;
+}
+
+.trip {
+    width: 20px; 
+    height: 20px;
+    position: absolute;
+    margin-top: 50px;
+    margin-right: 200px
+
+}
+.tripimg { 
+    display: inline-block;
+}
+.tripdays {
+    display: inline-block;
+    padding-left: 5px;
 }
 /* booking Section  */
 .bookingblock { 
@@ -348,10 +382,7 @@
     padding-top: 21px;  
     padding-right: 21px;
 }
-.trip { 
-    padding-left: 21px;
-    margin-top: 21px;
-}
+
 .iconimage { 
     display: -webkit-box; 
     display: -ms-flexbox; 
