@@ -1,0 +1,58 @@
+
+@media(max-width: 1115px) {
+    .first-cont-blocks {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+}
+
+@media(max-width: 1115px) {
+    .second-cont-blocks {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+}
+
+@media(max-width:1115px) {
+    .first-cont-blocks { 
+        -ms-flex-wrap: wrap; 
+            flex-wrap: wrap;
+    }
+}
+
+@media(max-width:1115px) {
+    .second-cont-blocks { 
+        -ms-flex-wrap: wrap; 
+            flex-wrap: wrap;
+    }
+}
+
+@media(max-width:1115px) {
+    .bookingblock { 
+        -ms-flex-wrap: wrap; 
+            flex-wrap: wrap;
+    }
+}
+
+@media(max-width:1115px) {
+    .partners { 
+        -ms-flex-wrap: wrap; 
+            flex-wrap: wrap;
+    }
+}
+
+@media(max-width:1115px) {
+    .footer-block { 
+        -ms-flex-wrap: wrap; 
+            flex-wrap: wrap;
+    }
+}
+
+
+@media(max-width:750px) {
+    .navigation {
+        display: none;
+    }
+}
