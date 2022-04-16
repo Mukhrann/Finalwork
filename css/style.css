@@ -96,14 +96,14 @@
     margin-bottom: 30px;
 }
 .back-img {
-    background-image: url(./img/Decore.png);
+    background-image: url(../img/Decore.png);
     background-repeat: no-repeat;
     background-position: top right;
     
 }
 /* First section */
 .first-cont {
-    background-image: url(./img/Group\ 4.svg);
+    background-image: url(../img/Group\ 4.svg);
     background-position: top right;
     background-repeat: no-repeat;
     width: 1102px;
@@ -170,7 +170,7 @@
 }
 /* second section */
 .second-cont {
-    background-image: url(./img/Decore.svg);
+    background-image: url(../img/Decore.svg);
     background-position: bottom right;
     background-repeat: no-repeat;
     width: 1102px;
@@ -239,7 +239,7 @@
 }
 
 .rome { 
-    background-image: url(./img/rome.png);
+    background-image: url(../img/rome.png);
     background-position: center;    
     background-repeat: no-repeat;
     width: 314px;
@@ -252,7 +252,7 @@
 }
 
 .london { 
-    background-image: url(./img/london.png);
+    background-image: url(../img/london.png);
     background-position: center;    
     background-repeat: no-repeat;
     width: 314px;
@@ -266,7 +266,7 @@
     
 }
 .europe {
-    background-image: url(./img/europe.png);
+    background-image: url(../img/europe.png);
     background-position: center;    
     background-repeat: no-repeat;
     width: 314px;
@@ -464,7 +464,7 @@
     background-repeat: no-repeat;
     border-radius: 129px 20px 20px 20px;
     width: 1102px; 
-    background-image: url(./img/subscribe/Rectangle\ 154.svg);
+    background-image: url(../img/subscribe/Rectangle\ 154.svg);
     background-repeat: no-repeat;
     background-position: bottom right;
 
